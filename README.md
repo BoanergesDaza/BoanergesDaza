@@ -37,3 +37,9 @@ My background relies heavily on numerical modeling, matrix operations, and optim
 
 ```math
 \text{Gradient-Based Optimization:} \quad \theta^{(t+1)} = \theta^{(t)} - \eta \nabla_\theta \mathcal{L}(\theta^{(t)})
+
+```
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Skyline" width="100%" />
+</div>
