@@ -43,3 +43,39 @@ My background relies heavily on numerical modeling, matrix operations, and optim
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Skyline" width="100%" />
 </div>
+
+---
+
+### 🛠️ Tech Stack & Engineering Toolkit
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Systems:**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌍 Spoken Languages
+Connecting technical vision across diverse teams and regions:
+
+* 🟢 **Fluent:** Spanish (Native) • English • Portuguese
+* 🟡 **Conversational / Technical:** Russian (~B2) • Italian (~B1)
+* 🔵 **Foundational:** German (A2–B1)
+
+---
+
+### 📊 Code & Language Distribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbdt&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kbdt&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+</div>
